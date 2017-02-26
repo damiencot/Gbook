@@ -1,0 +1,39 @@
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\bin\Debug\gbook.exe.config
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\bin\Debug\gbook.exe
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\bin\Debug\gbook.pdb
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Properties.Resources.resources
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\obj\Debug\gbook.csproj.GenerateResource.Cache
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\obj\Debug\gbook.exe
+c:\users\damien\documents\visual studio 2015\Projects\gbook\gbook\obj\Debug\gbook.pdb
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\bin\Debug\MySql.Data.dll
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\bin\Debug\MySql.Data.xml
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Supprimer.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Login.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Modifier.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Genre.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.PageListe.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.test.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Editeur.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Auteur.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Ajouter.resources
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Documents\Visual Studio 2015\Projects\gbook\gbook\obj\Debug\gbook.Profil.resources
+C:\wamp\www\Riastudio\gbook\gbook\bin\Debug\gbook.exe.config
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.exe
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.pdb
+C:\wamp\www\Riastudio\gbook\gbook\bin\Debug\gbook.exe
+C:\wamp\www\Riastudio\gbook\gbook\bin\Debug\gbook.pdb
+C:\wamp\www\Riastudio\gbook\gbook\bin\Debug\MySql.Data.dll
+C:\wamp\www\Riastudio\gbook\gbook\bin\Debug\MySql.Data.xml
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.csprojResolveAssemblyReference.cache
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Ajouter.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Auteur.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Editeur.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Genre.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.PageListe.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Login.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Modifier.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Profil.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Properties.Resources.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.Supprimer.resources
+C:\wamp\www\Riastudio\gbook\gbook\obj\Debug\gbook.csproj.GenerateResource.Cache
